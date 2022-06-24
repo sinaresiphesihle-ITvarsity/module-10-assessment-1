@@ -1,0 +1,20 @@
+body{
+    margin-left: 25%;
+    margin-right:25%;
+}
+#myForm{
+    text-align: center;
+}
+
+.btn{
+    text-align: center;
+}
+
+.display{
+    text-align: center;
+  
+}
+
+ul{
+    list-style-type:none
+}
